@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Alex Gutierrez",
+        "edad": 23,
+        "ciudad": "Loja",
+        "aficiones": ["Leer", "Ciclismo", "Videojuegos"]
+    },
+    {
+        "nombre": "Luis Sarango",
+        "edad": 23,
+        "ciudad": "Quito",
+        "aficiones": ["Fotografía", "Senderismo", "Correr"]
+    },
+    {
+        "nombre": "Juan Garcia",
+        "edad": 27,
+        "ciudad": "Cuenca",
+        "aficiones": ["Fútbol", "Viajar", "Cocinar"]
+    },
+    {
+        "nombre": "Ana Torres",
+        "edad": 35,
+        "ciudad": "Ambato",
+        "aficiones": ["Pintura", "Correr", "Teatro"]
+    }
+]
